@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Partnership Management">68ed4ae9db2213003c59f36f299619fb</menu>
+        <name>Partnership Management</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_7606_partnership</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_7606_partnership</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 07:12:46</sys_created_on>
+        <sys_id>aced8a21db2213003c59f36f2996193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 07:12:46</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_7606_partnership.user" name="x_7606_partnership.user">a4ed4ae9db2213003c59f36f299619ff</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

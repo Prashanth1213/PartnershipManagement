@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_7606_partnership_partners">x_7606_partnership_partners</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PTNR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-07 07:12:47</sys_created_on>
+        <sys_id>89ed8ae9db2213003c59f36f29961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PTNR</sys_name>
+        <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
+        <sys_update_name>sys_number_89ed8ae9db2213003c59f36f29961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-07 07:12:47</sys_updated_on>
+    </sys_number>
+</record_update>

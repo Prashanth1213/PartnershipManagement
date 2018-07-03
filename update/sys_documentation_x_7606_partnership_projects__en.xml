@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Projects" language="en" table="x_7606_partnership_projects">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Projects</label>
+            <language>en</language>
+            <name>x_7606_partnership_projects</name>
+            <plural>Projects</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Prashanth_admin</sys_created_by>
+            <sys_created_on>2018-07-02 10:31:54</sys_created_on>
+            <sys_id>993baf21db4313003c59f36f29961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Projects</sys_name>
+            <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
+            <sys_update_name>sys_documentation_x_7606_partnership_projects__en</sys_update_name>
+            <sys_updated_by>Prashanth_admin</sys_updated_by>
+            <sys_updated_on>2018-07-02 10:31:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

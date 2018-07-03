@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Partnership Programs" language="en" table="x_7606_partnership_partnership_programs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Partnership Programs</label>
+            <language>en</language>
+            <name>x_7606_partnership_partnership_programs</name>
+            <plural>Partnership Programs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Prashanth_admin</sys_created_by>
+            <sys_created_on>2018-07-02 10:01:45</sys_created_on>
+            <sys_id>3f44ab2ddb0313003c59f36f2996198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Partnership Programs</sys_name>
+            <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
+            <sys_update_name>sys_documentation_x_7606_partnership_partnership_programs__en</sys_update_name>
+            <sys_updated_by>Prashanth_admin</sys_updated_by>
+            <sys_updated_on>2018-07-02 10:01:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

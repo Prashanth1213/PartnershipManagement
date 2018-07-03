@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Partners" max_length="40" name="x_7606_partnership_partners" type="collection">
+        <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
+        <element label="Contract" max_length="32" name="contract" reference="ast_contract" type="reference"/>
+        <element label="Name" max_length="32" name="name" reference="core_company" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Partner" mandatory="true" max_length="32" name="partner" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="partner"/>
+        </index>
+        <index name="index2">
+            <element name="contact"/>
+        </index>
+        <index name="index3">
+            <element name="contract"/>
+        </index>
+        <index name="index4">
+            <element name="name"/>
+        </index>
+    </element>
+</database>
