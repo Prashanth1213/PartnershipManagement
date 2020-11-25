@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Partners" max_length="40" name="x_7606_partnership_partners" type="collection">
+    <element label="Partners" max_length="40" name="x_7606_partnership_partners" sizeclass="0" type="collection">
         <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
         <element label="Contract" max_length="32" name="contract" reference="ast_contract" type="reference"/>
         <element label="Name" max_length="32" name="name" reference="core_company" type="reference"/>
