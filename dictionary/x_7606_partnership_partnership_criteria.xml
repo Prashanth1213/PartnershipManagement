@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Partnership Criteria" max_length="40" name="x_7606_partnership_partnership_criteria" type="collection">
         <element choice="1" label="Calculation method" max_length="40" name="calculation_method" type="choice">
             <choice/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="name" label="Name" language="en" table="x_7606_partnership_partners">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>name</element>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-07 07:21:56</sys_created_on>
-            <sys_id>4bff026ddb2213003c59f36f2996194c</sys_id>
+            <sys_id>78b531732fe0201038b3fe1df699b63f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Name</sys_name>
             <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>

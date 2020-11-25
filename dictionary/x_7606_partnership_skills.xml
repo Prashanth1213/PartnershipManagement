@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Skills" max_length="40" name="x_7606_partnership_skills" type="collection">
         <element label="Credits" max_length="1000" name="credits" type="integer"/>
         <element label="Product name" max_length="32" name="product_name" reference="x_7606_partnership_products" type="reference"/>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
+        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
@@ -17,19 +17,20 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
         <super_class/>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>Prashanth_admin</sys_created_by>
         <sys_created_on>2018-07-02 10:29:02</sys_created_on>
-        <sys_id>747a2321db4313003c59f36f2996190f</sys_id>
+        <sys_id>11b531732fe0201038b3fe1df699b6ae</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Products</sys_name>
         <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
-        <sys_update_name>sys_db_object_747a2321db4313003c59f36f2996190f</sys_update_name>
+        <sys_update_name>sys_db_object_11b531732fe0201038b3fe1df699b6ae</sys_update_name>
         <sys_updated_by>Prashanth_admin</sys_updated_by>
         <sys_updated_on>2018-07-02 10:29:02</sys_updated_on>
         <update_access>false</update_access>
