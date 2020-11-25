@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="ua_table_licensing_config">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
     <ua_table_licensing_config action="INSERT_OR_UPDATE">
         <is_fulfillment>false</is_fulfillment>
         <license_condition/>
@@ -13,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>Prashanth_admin</sys_created_by>
         <sys_created_on>2018-07-02 10:01:45</sys_created_on>
-        <sys_id>b344ab2ddb0313003c59f36f29961995</sys_id>
+        <sys_id>64b531732fe0201038b3fe1df699b632</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_7606_partnership_partnership_programs</sys_name>
         <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_b344ab2ddb0313003c59f36f29961995</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_64b531732fe0201038b3fe1df699b632</sys_update_name>
         <sys_updated_by>Prashanth_admin</sys_updated_by>
         <sys_updated_on>2018-07-02 10:01:45</sys_updated_on>
     </ua_table_licensing_config>

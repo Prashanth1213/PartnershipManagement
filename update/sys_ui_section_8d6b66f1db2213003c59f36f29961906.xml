@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="8d6b66f1db2213003c59f36f29961906" sys_domain="global" table="x_7606_partnership_partners" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>

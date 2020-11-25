@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Partners" max_length="40" name="x_7606_partnership_partners" type="collection">
         <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
         <element label="Contract" max_length="32" name="contract" reference="ast_contract" type="reference"/>

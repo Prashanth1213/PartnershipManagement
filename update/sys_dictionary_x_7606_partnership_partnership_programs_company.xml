@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="company" table="x_7606_partnership_partnership_programs">
         <active>true</active>
         <array>false</array>
@@ -54,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Prashanth_admin</sys_created_by>
         <sys_created_on>2018-07-02 10:08:26</sys_created_on>
-        <sys_id>5e75e36ddb0313003c59f36f29961984</sys_id>
+        <sys_id>a8b531732fe0201038b3fe1df699b609</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Company</sys_name>
         <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Partnership Management">aced8a21db2213003c59f36f2996193e</sys_scope>
         <sys_update_name>sys_dictionary_x_7606_partnership_partnership_programs_company</sys_update_name>
-        <sys_updated_by>Prashanth_admin</sys_updated_by>
-        <sys_updated_on>2018-07-02 10:08:26</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 00:03:46</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

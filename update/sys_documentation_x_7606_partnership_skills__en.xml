@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="Skills" language="en" table="x_7606_partnership_skills">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>Prashanth_admin</sys_created_by>
             <sys_created_on>2018-07-02 11:11:22</sys_created_on>
-            <sys_id>eb34fb65db4313003c59f36f299619ad</sys_id>
+            <sys_id>05b531732fe0201038b3fe1df699b67f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Skills</sys_name>
             <sys_package display_value="Partnership Management" source="x_7606_partnership">aced8a21db2213003c59f36f2996193e</sys_package>
